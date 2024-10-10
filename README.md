@@ -1,2 +1,2 @@
-# DATA_MINING project.
+# DATA_MINING project
 
